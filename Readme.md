@@ -1,0 +1,1 @@
+A simple Student Management System in Typescript. 
